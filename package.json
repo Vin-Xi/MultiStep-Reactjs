@@ -13,7 +13,7 @@
     "react-dom": "^16.8.6",
     "react-floating-action-button": "^1.0.5",
     "react-recaptcha": "^2.3.10",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "svg-captcha": "^1.4.0"
   },
   "scripts": {
